@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "VyLslfuwr1o9GZ301G8vXuOKqWIMT9JnwX8ELMEY5WUxUgSaH+y6kSQYkLXh9VsAXCgcxVv/mJ6YHGrImp/6Yg==",
+  "dgSpecHash": "cfv86v5gwNPfsgfGVu6HNGDE+xmlPme9p/ElIWD00ZFIQatnuMlTVLOkmW3cyeXqd/id53ltQ45gHjVG3eCHmA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Pichau\\Desktop\\Programação\\Projeto_Hamburgueria\\Projeto_Hamburgueria.csproj",
   "expectedPackageFiles": [
@@ -13,7 +13,7 @@
     "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.1.0\\microsoft.data.sqlclient.sni.runtime.5.1.0.nupkg.sha512",
     "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.12\\microsoft.entityframeworkcore.7.0.12.nupkg.sha512",
     "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.12\\microsoft.entityframeworkcore.abstractions.7.0.12.nupkg.sha512",
-    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.12\\microsoft.entityframeworkcore.analyzers.7.0.12.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.13\\microsoft.entityframeworkcore.analyzers.7.0.13.nupkg.sha512",
     "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.12\\microsoft.entityframeworkcore.design.7.0.12.nupkg.sha512",
     "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.12\\microsoft.entityframeworkcore.relational.7.0.12.nupkg.sha512",
     "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\7.0.12\\microsoft.entityframeworkcore.sqlserver.7.0.12.nupkg.sha512",
